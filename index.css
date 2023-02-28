@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  border: 1px solid black;
+  background-color: rgb(189, 200, 225);  
+}
+ .header>h1{
+  display: inline;
+  text-align:'center';
+  color:'darkblue';
+  font-size:'30px';
+}
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  font-size: large;
+  font-style: oblique;
+}
+.logo {
+  width: 150px;
+  height: 100px;
+}
+.card {
+  width: 255px;
+  border:1px solid black;
+  padding: 10px;
+  margin:10px;
+  word-wrap: break-word;
+}
+.card > img {
+  width: 100%;
+}
+.restaurant-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer-cards{
+  width: 200px;
+  height: 300px;
+  border:1px solid black;
+  background-color: rgb(203, 214, 214);
+  padding: 10px;
+  margin:10px;
+  word-wrap: break-word;
+}
+.loginbtn{
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(227, 224, 39) ;
+background-color:rgb(120, 120, 177);
+/* padding: 10px 10px; 
+margin-top: 30px;
+margin-right: 5px;
+height: 50px;
+width:130px;
+}
+.logoutbtn{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(234, 44, 14);
+  background-color:rgb(176, 198, 179) ;
+  margin-top: 30px;
+margin-right: 5px;
+height: 50px;
+width:130px;
+}
+.menu{
+  display: flex;
+}
+.search{
+  height: 30px;
+  display: inline;
+  padding: 10px;
+}
+
+.search-container{
+ box-sizing: content-box;
+ font-size: large;
+
+}
+.search-btn{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(201, 191, 190);
+  background-color:rgb(12, 14, 12) ;
+} 
+.isonline{
+  text-align: right;
+} */
